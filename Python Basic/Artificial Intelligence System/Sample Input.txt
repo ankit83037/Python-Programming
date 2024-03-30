@@ -1,0 +1,22 @@
+Artificial Intelligence System
+
+Imagine yourself to be a scientist who has developed an intelligent system that converts text to speech. You are getting ready for its demo and want to feed the information that your system has to convert to speech. Simulate this through python.
+
+Note: The information includes the name of the AI system, creator, purpose of creation, Memory, etc.  Refer to the sample input and output statements for more clarifications.
+
+Sample input statement 1:
+Enter the name:
+Software 2.0
+Enter the creator name:
+XYZ
+Enter the purpose:
+Conversion of Text to Speech
+Enter the memory size:
+500Gb
+Enter the speed:
+5.5
+
+Sample output statement 1:
+My Details:
+I am Software 2.0 , created by XYZ, for the purpose of Conversion of Text to Speech.
+Memory I consume is around 500Gb and my speed is 5.5 GHZ.
